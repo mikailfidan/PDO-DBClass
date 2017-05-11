@@ -1,7 +1,5 @@
-
 <?php
 /**
- * Created by PhpStorm.
  * User: mfidan
  * Date: 13.02.2017
  * Time: 21:29
