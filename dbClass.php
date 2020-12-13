@@ -20,7 +20,7 @@ Class DB {
             $this->dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);;
             $this->dbh->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
 
-           //echo "Connection to succes";
+          
         }
 
 
