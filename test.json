@@ -1,0 +1,27 @@
+{
+  "id" : 1,
+  "title" : "Cat1",      //empty
+  "breed" : "British",
+  "colour":"Red",
+  "location":"Ankara",
+  "type":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+  "photos":"https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg"
+},
+{
+  "id" : 2,
+  "title" : "Cat2",      //empty
+  "breed" : "Regdoll",
+  "colour":"Black",
+  "location":"Mardin",
+  "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
+  "photos":"https://www.vets4pets.com/siteassets/species/cat/cat-in-garden.jpg"
+},
+{
+  "id" : 3,
+  "title" : "Cat3",      //empty
+  "breed" : "Bombay",
+  "colour":"Red",
+  "location":"Ankara",
+  "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
+  "photos":"https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2018/06/cat-217679.jpg"
+}
