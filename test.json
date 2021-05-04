@@ -1,6 +1,6 @@
 {
   "id" : 1,
-  "title" : "Cat1",      //empty
+  "title" : "Cat1",      
   "breed" : "British",
   "colour":"Red",
   "location":"Ankara",
@@ -9,7 +9,7 @@
 },
 {
   "id" : 2,
-  "title" : "Cat2",      //empty
+  "title" : "Cat2",      
   "breed" : "Regdoll",
   "colour":"Black",
   "location":"Mardin",
@@ -18,7 +18,7 @@
 },
 {
   "id" : 3,
-  "title" : "Cat3",      //empty
+  "title" : "Cat3",      
   "breed" : "Bombay",
   "colour":"Red",
   "location":"Ankara",
