@@ -1,5 +1,5 @@
 {
-  "id" : 1,
+  "id" : "1",
   "title" : "Cat1",      
   "breed" : "British",
   "colour":"Red",
@@ -8,7 +8,7 @@
   "photos":"https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg"
 },
 {
-  "id" : 2,
+  "id" : "2",
   "title" : "Cat2",      
   "breed" : "Regdoll",
   "colour":"Black",
@@ -17,7 +17,7 @@
   "photos":"https://www.vets4pets.com/siteassets/species/cat/cat-in-garden.jpg"
 },
 {
-  "id" : 3,
+  "id" : "3",
   "title" : "Cat3",      
   "breed" : "Bombay",
   "colour":"Red",
