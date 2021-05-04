@@ -1,4 +1,4 @@
-{
+[{
   "id" : "1",
   "title" : "Cat1",      
   "breed" : "British",
@@ -25,3 +25,4 @@
   "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
   "photos":"https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2018/06/cat-217679.jpg"
 }
+ ]
