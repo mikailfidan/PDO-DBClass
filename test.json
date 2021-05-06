@@ -3,18 +3,22 @@
   "title" : "Cat1",      
   "breed" : "British",
   "colour":"Red",
+  "category":"Lost",
   "location":"Ankara",
-  "type":"Lorem Ipsum is simply dummy text of the printing and typesetting industr",
-  "photos":"https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg"
+  "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industr",
+  "photos":"https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg",
+  "date":"21.01.2021"
 },
 {
   "id" : "2",
   "title" : "Cat2",      
   "breed" : "Regdoll",
   "colour":"Black",
+  "category":"Lost",
   "location":"Mardin",
-  "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
-  "photos":"https://www.vets4pets.com/siteassets/species/cat/cat-in-garden.jpg"
+  "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
+  "photos":"https://www.vets4pets.com/siteassets/species/cat/cat-in-garden.jpg",
+  "date":"13.06.2021"
 },
 {
   "id" : "3",
@@ -22,25 +26,31 @@
   "breed" : "Bombay",
   "colour":"Red",
   "location":"Ankara",
-  "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
-  "photos":"https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2018/06/cat-217679.jpg"
+  "category":"Find",
+  "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
+  "photos":"https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2018/06/cat-217679.jpg",
+  "date":"30.05.2021"
 },
  {
   "id" : "4",
   "title" : "Cat5",      
   "breed" : "Van",
   "colour":"White",
+   "category":"Lost",
   "location":"Van",
-  "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
-  "photos":"https://cdnuploads.aa.com.tr/uploads/Contents/2019/10/24/thumbs_b_c_fb8263ce4f9f43ebdc7634b0d1eb0a08.jpg"
+  "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
+  "photos":"https://cdnuploads.aa.com.tr/uploads/Contents/2019/10/24/thumbs_b_c_fb8263ce4f9f43ebdc7634b0d1eb0a08.jpg",
+  "date":"09.08.2021"
 },
  {
   "id" : "5",
   "title" : "Cat5",      
   "breed" : "Regdoll",
   "colour":"Grey",
+  "category":"Lost",
   "location":"Istanbul",
-  "type":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
-  "photos":"https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg"
+  "desc":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum ",
+  "photos":"https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg",
+  "date":"01.09.2021" 
 }
  ]
