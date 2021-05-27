@@ -33,6 +33,17 @@
   "date":"30.05.2021"
 },
  {
+  "id" : "0",
+  "title" : "Aa",      
+  "breed" : "Aa",
+  "colour":"Red",
+  "category":"Find",
+  "location":"Ankara",
+  "desc":"LThe Affenpinscher: loyal, curious, and famously amusing; this almost-human toy dog is fearless ou…",
+  "photos":"https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30174107/Affenpinscher-copy.jpg",
+  "date":"21.01.2021"
+},
+ {
   "id" : "4",
   "title" : "Alaskan Klee Kai ",      
   "breed" : "Alaskan Klee Kai ",
